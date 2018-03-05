@@ -1,0 +1,6 @@
+v1.0.0 - Feb 20, 2018
+- First release
+v1.0.1 - Feb 20, 2018
+- Updated links
+v1.0.2 - Feb 25, 2018
+- Updated links
