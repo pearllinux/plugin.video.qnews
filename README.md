@@ -1,7 +1,7 @@
 # Truth Videos #
-Repository for the Kodi addon Truth Videos
+Repository for the Kodi addon QANON Videos
 
-Support / Coments via Twitter: @Truth_Videos
+Support / Coments via Twitter: @scottyvbama
 
 WAKE UP SHEEPLE!
 
