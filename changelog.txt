@@ -1,3 +1,12 @@
-v1.0.5 - Mar 04, 2018
+v1.0.7 - Aug 21, 2018
+- Updated Broken links
+v1.0.6 - Aug 21, 2018
+- Updated links
+v1.0.5 - Feb 28, 2018
+- Updated links
+v1.0.2 - Feb 25, 2018
+- Updated links
+v1.0.1 - Feb 20, 2018
+- Updated links
+v1.0.0 - Feb 20, 2018
 - First release
-
