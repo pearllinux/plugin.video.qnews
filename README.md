@@ -1,4 +1,4 @@
-# Truth Videos #
+# QNEWS #
 Repository for the Kodi addon QANON Videos
 
 Support / Coments via Twitter: @scottyvbama
