@@ -26,7 +26,7 @@ YOUTUBE_CHANNEL_ID_1 = "UCesUpcSqTPRyUmDnQnnW14A"
 YOUTUBE_CHANNEL_ID_2 = "UCGQ2Sr_tQ8YPbnfDHdKWRPw"
 YOUTUBE_CHANNEL_ID_3 = "UC98Zwfvjq12M1oi99Yqd78w"
 YOUTUBE_CHANNEL_ID_4 = "UCxz5R9YQMRW5QqElbAlMqRw"
-YOUTUBE_CHANNEL_ID_5 = "UCDB5XReUyyqt-FTNdkzFN-A"
+YOUTUBE_CHANNEL_ID_5 = "UCAyrKoW31y5UcsRjh2ItvxQ"
 YOUTUBE_CHANNEL_ID_6 = "UC8VYbOH2Z_swlgSSQ-RwaUg"
 YOUTUBE_CHANNEL_ID_7 = "SGTbull07"
 YOUTUBE_CHANNEL_ID_8 = "UCMVTRzCXvIbdK0Y1ZxD-BlA"
@@ -97,7 +97,7 @@ def main_list(params):
 
     plugintools.add_item( 
         #action="", 
-        title="H.A. Goodman",
+        title="In Pursuit of Truth",
         url="plugin://plugin.video.youtube/channel/"+YOUTUBE_CHANNEL_ID_5+"/",
         thumbnail=icon,
         folder=True )

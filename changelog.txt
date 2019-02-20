@@ -1,3 +1,6 @@
+v1.0.8 - Feb 19, 2019
+- Added New Links
+
 v1.0.7 - Aug 21, 2018
 - Updated Broken links
 v1.0.6 - Aug 21, 2018

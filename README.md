@@ -1,9 +1,9 @@
-# Truth Videos #
-Repository for the Kodi addon Truth Videos
+# QNEWS #
+Repository for the Kodi addon Qanon News
 
-Support / Coments via Twitter: @Truth_Videos
+Support / Coments via Twitter: @scottyvbama
 
-WAKE UP SHEEPLE!
+WWG1WGA!
 
 # CHANGELOG
 see changelog.txt
